@@ -1,5 +1,5 @@
 # LYFStore
-商城app模板
+商城APPdemo
 
 ![](https://github.com/sadrose/LYFStore/blob/master/Show/zhuye.png)
 ![](https://github.com/sadrose/LYFStore/blob/master/Show/shopcart.png)
